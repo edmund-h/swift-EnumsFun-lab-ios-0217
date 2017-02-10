@@ -124,9 +124,9 @@
 				7D2BCC1B1D3FFCC800B4CD52 /* ViewController.swift */,
 				B7A3C0CF1D518C1B00851E3C /* Card.swift */,
 				B7A3C0D51D5190F800851E3C /* Deck.swift */,
-				B7A3C0DB1D519F2E00851E3C /* GameEngine.swift */,
 				B7A3C0D71D519EA400851E3C /* Hand.swift */,
 				B7A3C0D91D519ED000851E3C /* Player.swift */,
+				B7A3C0DB1D519F2E00851E3C /* GameEngine.swift */,
 				B7A3C0D11D518E4700851E3C /* Array.swift */,
 				7D2BCC1D1D3FFCC800B4CD52 /* Main.storyboard */,
 				7D2BCC201D3FFCC800B4CD52 /* Assets.xcassets */,
@@ -142,9 +142,9 @@
 				B7A3C0D31D518F3800851E3C /* ArraySpec.swift */,
 				B7A3C0DD1D51A9FC00851E3C /* CardSpec.swift */,
 				B7A3C0DF1D51AA7B00851E3C /* DeckSpec.swift */,
-				B7A3C0E51D51AFBF00851E3C /* GameEngineSpec.swift */,
 				B7A3C0E11D51AB9600851E3C /* HandSpec.swift */,
 				B7A3C0E31D51ADF600851E3C /* PlayerSpec.swift */,
+				B7A3C0E51D51AFBF00851E3C /* GameEngineSpec.swift */,
 				7D2BCC301D3FFCC800B4CD52 /* Info.plist */,
 			);
 			path = EnumsFunTests;
